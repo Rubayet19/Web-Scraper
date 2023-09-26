@@ -1,2 +1,2 @@
 # Web-Scraper
-Scrape relevent hacker news articles
+Scrapes relevent hacker news articles using Beautiful Soup
