@@ -10,7 +10,7 @@ The Hacker News Scraper is a Python script designed to scrape news stories from 
 
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
-- Python 3.x installed on your machine.
+- Python 3.7 installed on your machine.
 - `requests` and `beautifulsoup4` libraries installed in your Python environment.
 
 ## Usage
